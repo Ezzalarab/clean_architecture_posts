@@ -1,16 +1,5 @@
 # clean_architecture_posts
 
-A new Flutter project.
+A simple Flutter project with clean architecture.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Following up to Tharwat Samy course on Udemy : https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic/
