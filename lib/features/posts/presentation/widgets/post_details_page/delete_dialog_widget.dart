@@ -14,7 +14,7 @@ class DeleteDialogWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
-      title: Text("Are you sure?"),
+      title: const Text("Are you sure?"),
       actions: [
         TextButton(
           child: const Text(
