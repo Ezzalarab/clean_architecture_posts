@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 
 const primaryColor = Colors.indigo;
 const secondaryColor = Colors.lightBlue;
+const background = Colors.white;
 
 final appTheme = ThemeData(
   appBarTheme: const AppBarTheme(
     backgroundColor: primaryColor,
     centerTitle: true,
+    foregroundColor: background,
   ),
   brightness: Brightness.light,
   primaryColor: primaryColor,
